@@ -1,0 +1,42 @@
+⭐ Tier 1 – Core Interview-Relevant
+
+Causal Inference & A/B Testing for Data Scientists
+🎥 https://www.youtube.com/watch?v=Otb340lyiAQ
+
+Focus: Randomization, treatment effects, practical experimentation
+
+Design & Analysis of Experiments – Randomized Experiments
+🎥 https://www.youtube.com/watch?v=BElijgjOgSQ
+
+Focus: Experimental design, internal validity
+
+Analyzing Randomized Experiments
+🎥 https://www.youtube.com/watch?v=vSKy9aPdd8I
+
+Focus: Interpreting results, significance, confidence intervals
+
+📈 Tier 2 – Conceptual Depth
+
+Causal Inference Bootcamp (Duke University)
+🎥 https://www.youtube.com/playlist?list=PL1M5TsfDV6Vui-q_q1Bq5kF2Y77udGwWx
+
+Focus: Confounding, assumptions, causal frameworks
+
+Full Causal Inference Course (Playlist)
+🎥 https://www.youtube.com/playlist?list=PLoazKTcS0RzZ1SUgeOgc6SWt51gfT80N0
+
+Focus: Potential outcomes, formal causal inference theory
+
+Application to AI & LLM Evaluation
+
+The concepts in this repository are applied to:
+
+Designing human evaluation protocols
+
+Measuring inter-annotator agreement
+
+Comparing model versions via controlled experiments
+
+Understanding causal impact of model, prompt, or data changes
+
+Avoiding misleading conclusions from observational metrics alone
